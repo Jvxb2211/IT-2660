@@ -10,7 +10,7 @@ public class Main {
         boolean run = true;
         Node[] Vertexes = new Node[1000];
         for (int i = 0; i < 1000; i++) {
-            Vertexes[i] = new Node(i, rand.nextInt(500));
+            Vertexes[i] = new Node(i, rand.nextInt(100001));
         }
 
         for (int i = 0; i < 1000; i++) {
