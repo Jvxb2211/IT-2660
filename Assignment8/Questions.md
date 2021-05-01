@@ -1,0 +1,2 @@
+1) The general performance of this algorithm is logarithmic and linear as it requires N log N comparisons to sort a data set. It performs better than exponential but worse than logarithmic and linear.
+2) Sorting algorithms seem important for preparing a data set to be used in applications like assignment 7 which requires a sorted data set to build a binary tree. Combination of these two concepts could take any set of numbers and sort and search them easily and efficiently.
