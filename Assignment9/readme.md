@@ -1,0 +1,1 @@
+I really struggled with this assignment. I pretty much had to follow a tutorial step-by-step to get the data structure up and running and I'm not satisfied with a few of the implementations of the assignment objectives but I unfortunately ran out of time.
